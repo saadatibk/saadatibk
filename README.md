@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saadatibk
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python, NASM , LLVM IR
+- 🌱 I’m currently learning python, java
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me www.linkedin.com/in/saadatibk
 - 😄 Pronouns: she/her
